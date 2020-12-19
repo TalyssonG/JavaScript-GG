@@ -1,5 +1,4 @@
 
-
 var tab = document.getElementById('seltab')
 
 function tabuada() {
